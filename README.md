@@ -25,3 +25,8 @@ Development
 1. Check out the `devel` branch
 2. Run `pod install` to install ObjectiveFaye's dependencies
 3. Compare [faye-browser.js](https://gist.github.com/steveluscher/4969398) to missing parts in ObjectiveFaye, and code until the thing works!
+
+Get in touch
+------------
+
+Show your support and join the team by saying hello on the ObjectiveFaye [mailing list](https://groups.google.com/forum/#!forum/objectivefaye).
